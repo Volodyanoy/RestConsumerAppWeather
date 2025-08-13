@@ -14,10 +14,6 @@ import org.springframework.web.client.RestTemplate;
 import java.util.*;
 
 
-/**
- * Hello world!
- *
- */
 public class Consumer
 {
     private static final Logger logger = LoggerFactory.getLogger(Consumer.class);
